@@ -1,6 +1,6 @@
 {
     "name": "leanser",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "AWS Lambda Cleaner - Cleanup resources on AWS Lambda container shutdown (timeout and/or spin-down)",
     "author": "Serkan Özal <serkanozal86@gmail.com> (https://github.com/serkan-ozal)",
     "homepage": "https://github.com/serkan-ozal/leanser",
